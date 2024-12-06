@@ -7,6 +7,9 @@ Este proyecto simula un sistema de biblioteca digital que permite gestionar libr
 - Calcular el costo acumulado de alquileres por usuario.  
 - Listar publicaciones disponibles y prestadas.  
 
+## Autor  
+Juan Di Benedetto
+- 
 ## Estructura del Proyecto  
 El sistema está compuesto por las siguientes clases:  
 
@@ -45,3 +48,4 @@ public class Main {
         System.out.println("Total gastado: $" + usuario1.calcularTotalGastado());
     }
 }
+
