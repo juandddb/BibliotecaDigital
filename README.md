@@ -8,7 +8,7 @@ Este proyecto simula un sistema de biblioteca digital que permite gestionar libr
 - Listar publicaciones disponibles y prestadas.  
 
 ## Autor  
-Juan Di Benedetto
+- Juan Di Benedetto
 - 
 ## Estructura del Proyecto  
 El sistema está compuesto por las siguientes clases:  
